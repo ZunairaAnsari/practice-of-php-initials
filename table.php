@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Table in php</h1>";
 
 $num = 2;
 $multiplier = 0;
